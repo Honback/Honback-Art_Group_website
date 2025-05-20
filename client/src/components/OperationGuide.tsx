@@ -22,8 +22,8 @@ const OperationGuide = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
           <div>
             <img
-              src="/자산5.png"
-              alt="다양한 동아리 활동 모습 - 미술 작품 제작"
+              src="/생활예술동아리_안내.jpg"
+              alt="다양한 동아리 활동 모습"
               className="w-full h-auto rounded-xl shadow-soft mb-4 object-cover"
             />
           </div>
