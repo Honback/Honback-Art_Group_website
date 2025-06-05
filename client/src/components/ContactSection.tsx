@@ -44,7 +44,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="text-sm text-neutral-600">이메일</p>
-                  <p className="font-medium text-lg">test</p>
+                  <p className="font-medium text-lg">info@parancompany.co.kr</p>
                 </div>
               </div>
 

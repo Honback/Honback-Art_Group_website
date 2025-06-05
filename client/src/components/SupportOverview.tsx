@@ -42,16 +42,15 @@ const SupportOverview = () => {
               교육 운영 경비 지원
             </h3>
             <p className="text-neutral-600 mb-4">
-              동아리 운영에 필요한 교육비의 일부(30%)를 지원하여 직장인들이 부담
+              동아리 운영에 필요한 교육비의 일부(40%)를 지원하여 직장인들이 부담
               없이 다채로운 문화예술 활동을 경험하고 즐길 수 있도록 돕습니다.
             </p>
             <div className="grid grid-cols-[2fr_1fr] gap-4 mt-2">
               <div className="bg-white p-1 rounded-lg">
                 <p className="text-primary font-medium mb-1">[지원 규모]</p>
                 <p className="text-neutral-600">
-                  동아리당 교육비의 30%,
-                  <br />
-                  최소 105만원 ~ 최대 495만원
+                  동아리당 교육비의 40%
+                  {/* <br /> */}
                 </p>
               </div>
               <img
