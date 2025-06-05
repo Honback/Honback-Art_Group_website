@@ -13,7 +13,7 @@ const OperationGuide = () => {
           className="absolute bottom-0 right-8 w-16 h-8 opacity-80 md:right-12 md:w-20 md:h-10 md:-bottom-4 lg:right-20 xl:right-36 xl:-bottom-6 2xl:right-48 z-[1] rotate-[180deg]"
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">
-          생활예술동아리 운영 안내
+          문화예술클럽 운영 안내
         </h2>
         <p className="text-xl text-center font-medium text-primary mb-12">
           "기업 맞춤형 문화예술교육 프로그램"
@@ -48,7 +48,7 @@ const OperationGuide = () => {
                 <div>
                   <span className="font-medium">동아리 운영비 지원:</span>{" "}
                   예술교육가 인건비, 프로그램 운영 관련 비용 일부 지원 (정부
-                  30%, 기업 70% 매칭 - 동아리 자부담 포함 가능)
+                  40%, 기업 60% 매칭 - 동아리 자부담 포함 가능)
                 </div>
               </li>
               <li className="flex">

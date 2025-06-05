@@ -10,7 +10,7 @@ const WhyArtsClubs = () => {
         <div className="flex flex-col md:flex-row md:justify-center md:items-center mt-4 md:mt-0 gap-12">
           <div className="">
             <h2 className="text-2xl md:text-3xl font-bold mb-6">
-              왜 생활예술동아리인가요?
+              왜 문화예술클럽인가요?
             </h2>
             <div className="text-2xl md:text-3xl font-bold text-primary mb-8 ">
               "일과 삶의 균형, 예술로 찾다!"
@@ -19,7 +19,7 @@ const WhyArtsClubs = () => {
             <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-500 mb-8 max-w-prose mx-auto">
               <p className="italic text-neutral-600">
                 "문화예술에 대한 관심은 높지만 시간과 비용 부담으로 망설였던
-                직장인들에게 생활예술동아리는 최고의 기회입니다. 정부와 기업이
+                직장인들에게 문화예술클럽은 최고의 기회입니다. 정부와 기업이
                 함께 교육비를 지원하고, 전문 강사가 직접 찾아가는 맞춤형
                 예술교육을 통해 일상에 새로운 활력을 불어넣으세요."
               </p>

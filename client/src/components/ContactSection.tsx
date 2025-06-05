@@ -15,13 +15,13 @@ const ContactSection = () => {
           문의
         </h2>
         <p className="text-xl text-center font-medium text-primary mb-12">
-          "생활예술동아리, 지금 바로 문의하세요!"
+          "문화예술클럽, 지금 바로 문의하세요!"
         </p>
 
         <div className="max-w-3xl mx-auto">
           <div className="bg-neutral-50 rounded-xl p-8 shadow-soft">
             <h3 className="text-xl font-bold mb-6">
-              생활예술동아리 운영 사무국
+              문화예술클럽 운영 사무국
             </h3>
             <p className="text-lg mb-4 text-neutral-600">
               (한국문화예술교육진흥원 시민지역연계팀)

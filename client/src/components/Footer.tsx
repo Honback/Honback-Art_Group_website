@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-black text-center md:text-left mb-6 md:mb-0">
             <div className="text-xl font-bold mb-2">한국문화예술교육진흥원</div>
-            <div className="text-sm text-neutral-800">생활예술동아리 지원사업</div>
+            <div className="text-sm text-neutral-800">문화예술클럽 지원사업</div>
           </div>
           
           <div className="text-black flex space-x-6">

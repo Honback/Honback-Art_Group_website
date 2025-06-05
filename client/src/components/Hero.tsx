@@ -48,7 +48,7 @@ const Hero = () => {
       <div className="flex justify-center item-center container mx-auto px-4 py-16 md:py-24 relative z-10 ">
         <div className="max-w-3xl">
           <h1 className="text-3xl md:text-4xl lg:text-5xl text-white font-bold leading-tight mb-6">
-            2025 직장 <span className="text-primary">생활예술동아리</span> 지원사업
+            2025 직장인 <span className="text-primary">문화예술클럽</span> 지원사업
             <br />
           </h1>
           <p className="text-white font-bold text-lg md:text-xl mb-8 max-w-2xl">
@@ -58,11 +58,11 @@ const Hero = () => {
           <p className="text-white text-lg md:text-xl mb-8 max-w-2xl">
             한국문화예술교육진흥원이{" "}
             <span className="font-bold">
-              여러분의 직장내 생활예술동아리 활동을 지원
+              여러분의 직장내 문화예술클럽 활동을 지원
             </span>
             합니다.
             <br />
-            생활예술동아리 지원사업은 직장인들이 일상에서 쉽게 문화예술을
+            문화예술클럽 지원사업은 직장인들이 일상에서 쉽게 문화예술을
             경험하고 삶의 질을 높일 수 있도록,{" "}
             <span className="font-bold">
               문화예술 관련 동아리 교육비와 전문 강사를 지원
