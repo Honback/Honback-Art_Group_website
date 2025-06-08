@@ -3,14 +3,14 @@ const OperationGuide = () => {
     <section className="py-16 md:py-24 bg-white" id="guide">
       <div className="relative z-[1] container mx-auto px-4">
         <img
-          src="/자산3.png"
+          src="/img103.png"
           alt="Decorative asset 3"
           className="absolute -top-14 left-8 w-16 h-16 opacity-100 md:left-16 md:w-24 md:h-24 md:top-0 lg:left-40 xl:left-60 2xl:left-80 z-[-1]"
         />
         <img
-          src="/자산17.png"
+          src="/img107.png"
           alt="Decorative asset 17"
-          className="absolute bottom-0 right-8 w-16 h-8 opacity-80 md:right-12 md:w-20 md:h-10 md:-bottom-4 lg:right-20 xl:right-36 xl:-bottom-6 2xl:right-48 z-[1] rotate-[180deg]"
+          className="absolute -bottom-12 right-8 w-20 h-20 opacity-80 md:right-12 md:w-36 md:h-36 md:-bottom-24 lg:right-20 xl:right-36 xl:-bottom-32 2xl:right-48 z-[1]"
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">
           문화예술클럽 운영 안내

@@ -24,7 +24,7 @@ const Hero = () => {
 
   return (
     <section
-      className="relative bg-black text-white overflow-hidden"
+      className="relative text-black overflow-hidden"
       id="intro"
     >
       {/* Background image with opacity */}
@@ -47,15 +47,33 @@ const Hero = () => {
 
       <div className="flex justify-center item-center container mx-auto px-4 py-16 md:py-24 relative z-10 ">
         <div className="max-w-3xl">
-          <h1 className="text-3xl md:text-4xl lg:text-5xl text-white font-bold leading-tight mb-6">
-            2025 직장인 <span className="text-primary">문화예술클럽</span> 지원사업
+          <h1 className="text-3xl md:text-4xl lg:text-5xl text-black font-bold leading-tight mb-6">
+            2025 직장인 <span className="text-primary" style={{
+              textShadow: `
+                -1px -1px 0 #000, 
+                1px -1px 0 #000, 
+                -1px  1px 0 #000, 
+                1px  1px 0 #000
+              `
+            }}>문화예술클럽</span> 지원사업
             <br />
           </h1>
-          <p className="text-white font-bold text-lg md:text-xl mb-8 max-w-2xl">
+          {/* <p className="text-black font-bold text-lg md:text-xl mb-8 max-w-2xl">
+            나의 아트메이트 찾기
+            <br />
+          </p> */}
+          <p
+            className="text-3xl font-black text-black"
+            style={{
+              textShadow:
+                "0px 4px 0 #F3ED67, 0px 8px 0 #E6B8D2, 0px 10px 0 #E16C42"
+            }}
+          >
             나의 아트메이트 찾기
             <br />
           </p>
-          <p className="text-white text-lg md:text-xl mb-8 max-w-2xl">
+          <br />
+          <p className="text-black text-lg md:text-xl mb-8 max-w-2xl">
             한국문화예술교육진흥원은 여러분의 직장 내 {" "}
             <span className="font-bold">
               문화예술클럽 활동
@@ -72,7 +90,7 @@ const Hero = () => {
             <Button
               asChild
               variant="default"
-              className="border-2 border-white bg-primary hover:border-primary text-white hover:bg-primary/60 hover:text-white shadow-soft"
+              className="border-2 border-white bg-primary hover:border-primary text-black hover:bg-primary/60 hover:text-black shadow-soft"
             >
               <a href="#process">참여 신청하기</a>
             </Button>
@@ -80,7 +98,7 @@ const Hero = () => {
             <Button
               asChild
               variant="outline"
-              className="bg-transparent hover:bg-primary/60 border-2 border-white text-white hover:border-primary hover:text-white shadow-soft"
+              className="bg-transparent hover:bg-primary/60 border-2 border-white text-black hover:border-primary hover:text-black shadow-soft"
             >
               <a href="#contact">문의하기</a>
             </Button>

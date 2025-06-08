@@ -72,7 +72,7 @@ const OrganizationSection = () => {
           <Button
             asChild
             variant="outline"
-            className="bg-primary text-white border-white/20 hover:bg-white/20"
+            className="bg-primary text-black border-white/20 hover:bg-white/20"
           >
             <a
               href="https://www.arte.or.kr/index.do"

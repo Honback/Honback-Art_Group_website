@@ -12,8 +12,8 @@ const ActivityCategories = () => {
     <section className="py-16 md:py-24 bg-neutral-50" id="activities">
       <div className="container mx-auto px-4 relative z-[1]">
         <img
-          src="/자산1.png"
-          alt="Decorative asset 1"
+          src="/img101.png"
+          alt="Decorative asset 101"
           className="absolute top-8 right-6 w-36 h-32 opacity-70 md:opacity-90 md:w-44 md:h-40 md:top-4 md:left-22 lg:left-40 xl:left-72 2xl:left-96 z-[-1] "
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">

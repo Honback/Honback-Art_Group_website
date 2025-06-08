@@ -44,19 +44,19 @@ const FAQ = () => {
     <section className="py-16 md:py-24 bg-neutral-50" id="faq">
       <div className="relative container mx-auto px-4 z-[1]">
         <img
-          src="/자산6.png"
+          src="/img106.png"
           alt="Decorative asset 6"
-          className="absolute top-20 right-8 w-20 h-20 opacity-70 md:right-10 md:w-40 md:h-40 md:top-0 lg:right-40 xl:right-60 2xl:right-80 z-[-1]"
+          className="absolute top-20 right-8 w-12 h-14 opacity-70 md:right-10 md:w-28 md:h-32 md:top-0 lg:right-40 xl:right-60 2xl:right-80 z-[-1]"
         />
         <img
-          src="/자산9.png"
+          src="/img109.png"
           alt="Decorative asset 9"
-          className="absolute -top-20 left-6 w-20 h-20 opacity-80 md:w-32 md:h-32 md:bottom-10 lg:left-40 xl:left-80 2xl:left-100 z-[-1]"
+          className="absolute -top-20 left-8 w-20 h-20 opacity-80 md:w-32 md:h-32 md:bottom-10 lg:left-40 xl:left-80 2xl:left-[18rem] z-[-1]"
         />
         <img
-          src="/자산16.png"
+          src="/img110.png"
           alt="Decorative asset 16"
-          className="absolute -bottom-12 right-20 w-10 h-8 opacity-80 md:right-40 md:w-16 md:h-14 md:-bottom-20 lg:right-60 xl:right-80 2xl:right-100 z-[-1]"
+          className="absolute -bottom-32 right-4 w-40 h-32 opacity-80 md:right-40 md:w-52 md:h-40 md:-bottom-32 lg:right-40 xl:right-80 2xl:right-100 z-[-1]"
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">
           자주 묻는 질문 (FAQ)

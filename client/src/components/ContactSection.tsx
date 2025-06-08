@@ -6,9 +6,9 @@ const ContactSection = () => {
     <section className="py-16 md:py-24 bg-white relative" id="contact">
       <div className="relative z-[1] container mx-auto px-4 ">
         <img
-          src="/자산8.png"
+          src="/img108.png"
           alt="Decorative asset 8"
-          className="absolute -top-10 left-6 w-24 h-20 opacity-80 md:w-36 md:h-32 md:-top-10 md:left-26 lg:left-40 xl:left-72 2xl:left-96 z-[-1]"
+          className="absolute -top-10 left-6 w-24 h-24 opacity-80 md:w-36 md:h-36 md:-top-10 md:left-26 lg:left-40 xl:left-72 2xl:left-96 z-[-1]"
         />
 
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">

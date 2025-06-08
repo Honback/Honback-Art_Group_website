@@ -9,7 +9,7 @@ const SupportOverview = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div className="bg-white border-2 rounded-xl p-4 shadow-soft transition hover:bg-primary/10 hover:shadow-md">
             <h3 className="text-xl font-bold mb-3 flex items-center">
-              <div className="bg-[#FF6B6B] text-white w-8 h-8 flex items-center justify-center rounded-lg mr-3">
+              <div className="bg-primary text-black w-8 h-8 flex items-center justify-center rounded-lg mr-3">
                 1
               </div>
               동아리 운영비 지원
@@ -34,7 +34,7 @@ const SupportOverview = () => {
           </div>
           <div className="bg-white border-2 rounded-xl p-4 shadow-soft transition hover:bg-primary/10 hover:shadow-md">
             <h3 className="text-xl font-bold mb-3 flex items-center">
-              <div className="bg-[#FF6B6B] text-white w-8 h-8 flex items-center justify-center rounded-lg mr-3">
+              <div className="bg-primary text-black w-8 h-8 flex items-center justify-center rounded-lg mr-3">
                 2
               </div>
               전문 예술 강사 매칭

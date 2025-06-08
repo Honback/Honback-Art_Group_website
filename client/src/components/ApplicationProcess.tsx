@@ -5,14 +5,14 @@ const ApplicationProcess = () => {
     <section className="py-16 md:py-24 bg-white " id="process">
       <div className="relative z-[1] container mx-auto px-4">
         <img
-          src="/자산15.png"
+          src="/img105.png"
           alt="Decorative asset 15"
-          className="absolute -top-4 left-6 w-14 h-14 opacity-80 md:w-20 md:h-20 md:top-4 md:left-22 lg:left-40 xl:left-72 2xl:left-96 z-[-1] "
+          className="absolute -top-4 left-12 w-14 h-14 opacity-80 md:w-20 md:h-20 md:top-4 md:left-22 lg:left-40 xl:left-72 2xl:left-96 z-[-1] "
         />
         <img
-          src="/자산4.png"
+          src="/img104.png"
           alt="Decorative asset 4"
-          className="absolute bottom-12 right-4 w-14 h-14 opacity-80 md:w-24 md:h-24 md:bottom-10 md:right-20 lg:right-40 xl:right-72 2xl:right-96 z-[-1] "
+          className="absolute bottom-2 right-4 w-20 h-20 opacity-80 md:w-32 md:h-32 md:bottom-4 md:right-20 lg:right-40 xl:right-72 2xl:right-96 z-[-1] "
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">
           진행 절차
@@ -28,7 +28,7 @@ const ApplicationProcess = () => {
               <div className="flex flex-col md:flex-row gap-6 relative z-10">
                 <div className="relative z-10 w-full">
                   <h3 className="text-xl font-bold mb-2">
-                    <span className="inline-flex items-center justify-center bg-primary text-white size-8 rounded-full mr-2">
+                    <span className="inline-flex items-center justify-center bg-primary text-black size-8 rounded-full mr-2">
                       1
                     </span>
                     참여 기업 수요조사 및 신청
@@ -57,7 +57,7 @@ const ApplicationProcess = () => {
               <div className="flex flex-col md:flex-row gap-6 relative z-10">
                 <div className="relative z-10 w-full">
                   <h3 className="text-xl font-bold mb-2">
-                    <span className="inline-flex items-center justify-center bg-primary text-white size-8 rounded-full mr-2">
+                    <span className="inline-flex items-center justify-center bg-primary text-black size-8 rounded-full mr-2">
                       2
                     </span>
                     대상 기업 선정 및 안내
@@ -82,7 +82,7 @@ const ApplicationProcess = () => {
               <div className="flex flex-col md:flex-row gap-6 relative z-10">
                 <div className="relative z-10 w-full">
                   <h3 className="text-xl font-bold mb-2">
-                    <span className="inline-flex items-center justify-center bg-primary text-white size-8 rounded-full mr-2">
+                    <span className="inline-flex items-center justify-center bg-primary text-black size-8 rounded-full mr-2">
                       3
                     </span>
                     예술교육가 매칭 및 프로그램 확정
@@ -110,7 +110,7 @@ const ApplicationProcess = () => {
               <div className="flex flex-col md:flex-row gap-6 relative z-10">
                 <div className="relative z-10 w-full">
                   <h3 className="text-xl font-bold mb-2">
-                    <span className="inline-flex items-center justify-center bg-primary text-white size-8 rounded-full mr-2">
+                    <span className="inline-flex items-center justify-center bg-primary text-black size-8 rounded-full mr-2">
                       4
                     </span>
                     동아리 운영 및 지원금 지급
@@ -143,7 +143,7 @@ const ApplicationProcess = () => {
           <div className="mt-12 text-center">
             <Button
               asChild
-              className="bg-primary text-white hover:bg-primary-dark shadow-soft px-8 py-6"
+              className="bg-primary text-black hover:bg-primary-dark shadow-soft px-8 py-6"
               size="lg"
             >
               <a

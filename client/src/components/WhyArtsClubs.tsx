@@ -3,7 +3,7 @@ const WhyArtsClubs = () => {
     <section className="py-16 md:py-24 bg-neutral-50" id="why">
       <div className="relative z-[1] container mx-auto px-4">
         <img
-          src="/자산2.png"
+          src="/img102.png"
           alt="Decorative asset 2"
           className="absolute -top-20 right-2 w-20 h-30 opacity-80 md:right-32 md:w-40 md:h-50 md:-top-26 lg:right-48 lg:w-48 lg:h-68 xl:right-80 2xl:right-96 z-[-1]"
         />
