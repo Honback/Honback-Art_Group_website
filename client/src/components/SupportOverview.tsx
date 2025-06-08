@@ -12,7 +12,7 @@ const SupportOverview = () => {
               <div className="bg-[#FF6B6B] text-white w-8 h-8 flex items-center justify-center rounded-lg mr-3">
                 1
               </div>
-              맞춤형 예술 교육 프로그램 지원
+              나에게 꼭 맞는 아트메이트 매칭
             </h3>
             <p className="text-neutral-600 mb-4">
               기업과 동아리의 특성 및 희망 분야를 고려하여 전문 예술 강사와 함께
@@ -39,11 +39,10 @@ const SupportOverview = () => {
               <div className="bg-[#FF6B6B] text-white w-8 h-8 flex items-center justify-center rounded-lg mr-3">
                 2
               </div>
-              교육 운영 경비 지원
+              교육 운영비 40% 지원
             </h3>
             <p className="text-neutral-600 mb-4">
-              동아리 운영에 필요한 교육비의 일부(40%)를 지원하여 직장인들이 부담
-              없이 다채로운 문화예술 활동을 경험하고 즐길 수 있도록 돕습니다.
+              지원규모의 “동아리당 교육비의 40%” → 전문 예술교육가 강사비 등 지원(최소 140만원에서 최대 660만원까지 지원)
             </p>
             <div className="grid grid-cols-[2fr_1fr] gap-4 mt-2">
               <div className="bg-white p-1 rounded-lg">

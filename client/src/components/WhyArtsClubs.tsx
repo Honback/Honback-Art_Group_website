@@ -24,11 +24,23 @@ const WhyArtsClubs = () => {
                 예술교육을 통해 일상에 새로운 활력을 불어넣으세요."
               </p>
             </div>
-            <img
-              src="/make.jpg"
-              alt="직장인들이 업무 후 동료들과 함께 웃으며 예술 활동을 하는 모습"
-              className="w-full h-auto rounded-xl shadow-soft object-cover max-w-xl mx-auto"
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              <img
+              src="/resize_R0057467.jpeg"
+              alt="시범사업 이미지1"
+              className="w-full h-[18rem] rounded-xl shadow-soft object-cover max-w-xl mx-auto"
             />
+              <img
+              src="/resize_R0056345.jpeg"
+              alt="시범사업 이미지1"
+              className="w-full h-[18rem] rounded-xl shadow-soft object-cover max-w-xl mx-auto"
+            />
+              <img
+                src="/make.jpg"
+                alt="직장인들이 업무 후 동료들과 함께 웃으며 예술 활동을 하는 모습"
+                className="w-full h-[18rem] rounded-xl shadow-soft object-cover max-w-xl mx-auto"
+              />
+            </div>
 
             {/* <h3 className="font-bold text-lg mb-4">직장인들이 문화예술을 통해 얻는 긍정적 효과:</h3>
             <ul className="space-y-3">

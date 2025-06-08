@@ -34,7 +34,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="text-sm text-neutral-600">전화</p>
-                  <p className="font-medium text-lg">02-6342-2801</p>
+                  <p className="font-medium text-lg">02-6342-2800</p>
                 </div>
               </div>
 
@@ -44,11 +44,11 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="text-sm text-neutral-600">이메일</p>
-                  <p className="font-medium text-lg">info@parancompany.co.kr</p>
+                  <p className="font-medium text-lg">jdw@parancompany.co.kr</p>
                 </div>
               </div>
 
-              <div className="flex items-center">
+              {/* <div className="flex items-center">
                 <div className="w-12 h-12 bg-primary/10 text-primary rounded-full flex items-center justify-center mr-4">
                   <i className="ri-kakao-talk-line text-xl"></i>
                 </div>
@@ -66,7 +66,7 @@ const ContactSection = () => {
                     </a>
                   </p>
                 </div>
-              </div>
+              </div> */}
 
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-primary/10 text-primary rounded-full flex items-center justify-center mr-4">
