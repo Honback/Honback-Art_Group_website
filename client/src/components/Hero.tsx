@@ -56,17 +56,17 @@ const Hero = () => {
             <br />
           </p>
           <p className="text-white text-lg md:text-xl mb-8 max-w-2xl">
-            한국문화예술교육진흥원이{" "}
+            한국문화예술교육진흥원은 여러분의 직장 내 {" "}
             <span className="font-bold">
-              당신의 '아트메이트'
+              문화예술클럽 활동
             </span>
-            를 찾아드립니다.
+            을 지원합니다.
             <br />
-            직장인 문화예술클럽은 나와 취향이 통하는 동료들과 함께 예술을 배우고 성장할 수 있도록,{" "}
+            문화예술클럽 지원사업은 직장인들이 일상에서 쉽게 문화예술을 경험하고 삶의 질을 높일 수 있도록,{" "}
             <span className="font-bold">
-              전문 문화예술가 매칭과 교육 운영비의 40%를 지원
+              문화예술 관련 동아리 교육비와 전문강사
             </span>
-            하는 사업입니다.
+            를 지원하는 프로그램입니다.
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <Button

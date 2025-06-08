@@ -18,7 +18,7 @@ const ApplicationProcess = () => {
           진행 절차
         </h2>
         <p className="text-xl text-center font-medium text-primary mb-12">
-          "간편한 신청으로 시작하는 우리 회사 예술 활동"
+          "간편한 신청으로 시작하는 직장인 예술 활동"
         </p>
 
         <div className="max-w-4xl mx-auto">
@@ -37,8 +37,7 @@ const ApplicationProcess = () => {
                     <li className="flex items-start gap-2">
                       <div className="size-2 rounded-full bg-primary shrink-0 mt-2" />
                       <span>
-                        한국문화예술교육진흥원 누리집(www.arte.or.kr)을 통해
-                        신청
+                        한국문화예술교육진흥원 누리집(www.arte.or.kr) 공고를 참고하여 신청
                       </span>
                     </li>
                     <li className="flex items-start gap-2">

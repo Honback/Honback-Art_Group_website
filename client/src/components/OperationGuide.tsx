@@ -16,7 +16,7 @@ const OperationGuide = () => {
           문화예술클럽 운영 안내
         </h2>
         <p className="text-xl text-center font-medium text-primary mb-12">
-          "기업 맞춤형 문화예술교육 프로그램"
+          "직장인 맞춤형 문화예술교육 프로그램"
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
