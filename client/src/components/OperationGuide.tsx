@@ -112,7 +112,7 @@ const OperationGuide = () => {
         </div>
 
         <div className="mt-12 text-center">
-          <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-500 inline-block text-left">
+          <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-500 inline-block text-left text-md md:text-xl">
             <p className="italic text-neutral-600">
               "기업의 특성과 구성원의 수요를 반영한 맞춤형 프로그램을 통해
               문화예술 활동의 즐거움을 경험하고, 동료들과 함께 성장하는 시간을

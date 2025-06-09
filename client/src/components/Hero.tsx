@@ -74,11 +74,11 @@ const Hero = () => {
           </p>
           <br />
           <p className="text-black text-lg md:text-xl mb-8 max-w-2xl">
-            한국문화예술교육진흥원은 여러분의 직장 내 {" "}
+            한국문화예술교육진흥원이 여러분의 직장 내 문화예술 활동을 활성화하기 위하여 {" "}
             <span className="font-bold">
-              문화예술클럽 활동
+              &lt; 직장인 문화예술클럽 지원사업 &gt;
             </span>
-            을 지원합니다.
+            을 실시합니다.
             <br />
             문화예술클럽 지원사업은 직장인들이 일상에서 쉽게 문화예술을 경험하고 삶의 질을 높일 수 있도록,{" "}
             <span className="font-bold">

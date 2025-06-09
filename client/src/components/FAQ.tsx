@@ -56,7 +56,7 @@ const FAQ = () => {
         <img
           src="/img110.png"
           alt="Decorative asset 16"
-          className="absolute -bottom-32 right-4 w-40 h-32 opacity-80 md:right-40 md:w-52 md:h-40 md:-bottom-32 lg:right-40 xl:right-80 2xl:right-100 z-[-1]"
+          className="absolute -bottom-32 right-4 w-40 h-28 opacity-80 md:right-40 md:w-52 md:h-38 md:-bottom-32 lg:right-40 xl:right-80 2xl:right-100 z-[-1]"
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">
           자주 묻는 질문 (FAQ)

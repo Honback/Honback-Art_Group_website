@@ -142,7 +142,7 @@ const ActivityCategories = () => {
         </div>
 
         <div className="mt-12 text-center">
-          <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-600 inline-block text-left">
+          <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-600 inline-block text-left text-md md:text-xl">
             <p className="italic text-neutral-600">
               "우리 회사, 우리 동료들과 가장 잘 맞는 예술 분야를 선택하고,
               전문가의 도움을 받아 즐겁게 활동을 시작해 보세요. 생각보다 훨씬

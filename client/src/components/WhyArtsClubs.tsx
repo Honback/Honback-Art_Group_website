@@ -16,7 +16,7 @@ const WhyArtsClubs = () => {
               "일과 삶의 균형, 예술로 찾다!"
             </div>
 
-            <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-500 mb-8 max-w-prose mx-auto">
+            <div className="bg-white p-6 rounded-xl shadow-soft border-l-4 border-purple-500 mb-8 mx-auto text-md md:text-xl">
               <p className="italic text-neutral-600">
                 "문화예술에 대한 관심은 높지만 시간과 비용 부담으로 망설였던
                 직장인들에게 문화예술클럽은 최고의 기회입니다. 정부와 기업이

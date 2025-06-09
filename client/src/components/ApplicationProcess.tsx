@@ -12,7 +12,7 @@ const ApplicationProcess = () => {
         <img
           src="/img104.png"
           alt="Decorative asset 4"
-          className="absolute bottom-2 right-4 w-20 h-20 opacity-80 md:w-32 md:h-32 md:bottom-4 md:right-20 lg:right-40 xl:right-72 2xl:right-96 z-[-1] "
+          className="absolute bottom-2 right-4 w-18 h-20 opacity-80 md:w-28 md:h-32 md:-bottom-8 md:right-20 lg:right-40 xl:right-72 2xl:right-96 z-[-1] "
         />
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-4">
           진행 절차
@@ -122,7 +122,7 @@ const ApplicationProcess = () => {
                     </li>
                     <li className="flex items-start gap-2">
                       <div className="size-2 rounded-full bg-primary shrink-0 mt-2" />
-                      <span>운영 결과에 따라 지원금 지급 및 정산</span>
+                      <span>회차별 운영 결과 확인 및 지원금 지급</span>
                     </li>
                   </ul>
                 </div>

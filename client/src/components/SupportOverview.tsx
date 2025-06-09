@@ -21,8 +21,9 @@ const SupportOverview = () => {
               <div className="bg-white p-1 rounded-lg">
                 <p className="text-primary font-medium mb-1">[지원 규모]</p>
                 <p className="text-neutral-600">
-                  “동아리당 운영비의 40%” → 전문 예술교육가 강사비 등 지원(최소 140만원에서 최대 660만원까지 지원)
-                  {/* <br /> */}
+                  동아리 운영비의 40% 지원 → (최소 140만원에서 최대 660만원까지 지원)
+                  <br/>
+                  &#8251;기업﹒동아리에서 운영비의 60%를 분담해야 하며, 지원금은 주로 예술교육가 강사비로 사용되어야 함.
                 </p>
               </div>
               <img
