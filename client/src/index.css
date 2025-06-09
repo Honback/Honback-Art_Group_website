@@ -14,7 +14,9 @@
   --border: 20 5.9% 90%;
   --input: 20 5.9% 90%;
   /* --primary: 14 100% 67%; */
-  --primary: 49 91% 72%;
+  /* --primary: 49 91% 72%; 기존 포스터 노랑이*/
+  /* --primary: 45, 91%, 47%; 팀장님 요청 노랑 */
+  --primary: 50, 80%, 60%;
   --primary-foreground: 211 100% 99%;
   --secondary: 270, 60%, 49%;
   --secondary-foreground: 24 9.8% 10%;
