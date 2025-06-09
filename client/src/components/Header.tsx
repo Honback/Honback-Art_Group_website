@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <header className="sticky top-0 z-50 bg-primary shadow-sm">
-      <div className="container mx-auto px-4 py-4">
+      <div className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <img src="./artelogo1.png" alt="artelogo1 로고" className="h-9"/>

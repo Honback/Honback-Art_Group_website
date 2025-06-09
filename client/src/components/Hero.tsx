@@ -29,7 +29,7 @@ const Hero = () => {
     >
       {/* Background image with opacity */}
       <div
-        className="absolute inset-0 z-0 opacity-35 bg-cover bg-center"
+        className="absolute inset-0 z-0 opacity-20 bg-cover bg-center"
         aria-hidden="true"
       >
         {images.map((img, index) => (
@@ -63,10 +63,10 @@ const Hero = () => {
             <br />
           </p> */}
           <p
-            className="text-3xl font-black text-black"
+            className="text-2xl font-black text-black"
             style={{
               textShadow:
-                "0px 4px 0 #F3ED67, 0px 8px 0 #E6B8D2, 0px 10px 0 #E16C42"
+                "0px 3px 0 #F3ED67, 0px 6px 0 #E6B8D2, 0px 8px 0 #E16C42"
             }}
           >
             나의 아트메이트 찾기
