@@ -92,7 +92,7 @@ const Hero = () => {
               variant="default"
               className="border-2 border-white bg-primary hover:border-primary text-black hover:bg-primary/60 hover:text-black shadow-soft"
             >
-              <a href="https://www.arte.or.kr/information/notice/Notice_BoardView.do?board_id=BRD_ID0071206">참여 신청하기</a>
+              <a href="https://www.arte.or.kr/information/notice/Notice_BoardView.do?board_id=BRD_ID0071206" target="_blank" rel="noopener noreferrer" >참여 신청하기</a>
             </Button>
 
             <Button
